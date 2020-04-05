@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  UdemyIOSBootcamp
+//  Test
 //
-//  Created by HannahLi on 2020-04-04.
-//  Copyright © 2020 HannahLi. All rights reserved.
+//  Created by Angela Yu on 13/06/2019.
+//  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
 import UIKit

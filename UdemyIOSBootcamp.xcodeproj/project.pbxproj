@@ -40,6 +40,7 @@
 		BB67D7B02439640C00DC1CCD = {
 			isa = PBXGroup;
 			children = (
+				BB67D7D0243A981900DC1CCD /* Dicee-3 */,
 				BB67D7BB2439640C00DC1CCD /* UdemyIOSBootcamp */,
 				BB67D7BA2439640C00DC1CCD /* Products */,
 			);
@@ -65,6 +66,13 @@
 				BB67D7CA2439640D00DC1CCD /* Info.plist */,
 			);
 			path = UdemyIOSBootcamp;
+			sourceTree = "<group>";
+		};
+		BB67D7D0243A981900DC1CCD /* Dicee-3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Dicee-3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
